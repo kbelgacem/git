@@ -9,6 +9,5 @@ mofi kk:
 <?php 
 function test_modif()
 {}
-
  ?> 
 modified by abouhanna
