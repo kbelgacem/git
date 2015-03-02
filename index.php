@@ -6,8 +6,9 @@ changer color
 add line 2ieme issues
 test collaboration
 mofi kk:
-<<?php 
+?php 
 function test_modif()
 }
- ?> >
+ ?> 
 }
+modified by abouhanna
